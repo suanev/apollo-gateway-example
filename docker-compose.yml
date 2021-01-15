@@ -1,0 +1,19 @@
+version: "3.3"
+services:   
+  server:
+    container_name: "server"
+    build: server
+    ports:
+      - "3000:3000"
+    network_mode: host
+      
+  graphql:
+    container_name: "graphql"
+    build: graphql
+    ports:
+      - "4000:4000"
+    env_file:
+      - "./graphql/src/.env"
+    network_mode: host
+    depends_on: 
+      - server
