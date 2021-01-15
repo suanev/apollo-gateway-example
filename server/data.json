@@ -1,0 +1,728 @@
+{
+  "destinations": [
+    {
+      "id": "826b12bd-d11d-4fd0-b154-0d597a741a1d",
+      "title": "Oslo",
+      "text": "Oslo, capital da Noruega, é uma pequena cidade que soube crescer sem perder suas identidade, chegando a se tornar uma das capitais mais bonitas da Europa. Apesar de ser uma cidade muito moderna, ainda conserva a magia dos pequenos povoados e, do centro da cidade, é possível ir até um bosque em poucos minutos. Apesar de Oslo ser uma cidade relativamente pequena se comparada a outras capitais europeias, seu elevado nível de vida faz dela uma das cidades mais caras do mundo. Seguindo nossos conselhos você poderá desfrutar a cidade economizando o máximo possível e sem perder nenhuma de suas maravilhas.",
+      "location": "Noruega",
+      "temperature": "6.3°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1548637432-600ccc7fbda6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "https://images.unsplash.com/photo-1576095365680-bcdd823a9796?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1556476719-c2ec46ca76c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "83355302-bb96-4274-b5f7-3523f92edfb4",
+      "title": "Roma",
+      "text": "Roma, a capital da Itália, é uma cidade cosmopolita, enorme, com quase 3.000 anos de arte, arquitetura e cultura influentes no mundo todo e à mostra. Ruínas antigas como o Fórum e o Coliseu evocam o poder do antigo Império Romano. A Cidade do Vaticano, sede da Igreja Católica Romana, tem a Basílica de São Pedro e os museus do Vaticano, que abrigam obras-primas como os afrescos da Capela Sistina de Michelângelo.",
+      "location": "Itália",
+      "temperature": "16°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1544888121-1c1ee6f0f7aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1546946590-5d739771abc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1356&q=80",
+        "https://images.unsplash.com/photo-1569230516306-5a8cb5586399?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1525874684015-58379d421a52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "985af2e0-32c0-4a96-90cb-77398f39e688",
+      "title": "Paris",
+      "text": "Paris, a capital da França, é uma importante cidade europeia e um centro mundial de arte, moda, gastronomia e cultura. Sua paisagem urbana do século XIX é cortada por avenidas largas e pelo rio Sena. A cidade é conhecida por monumentos como a Torre Eiffel e a Catedral de Notre-Dame, uma construção gótica do século XII, sendo famosa também pela cultura dos cafés e por lojas de estilistas famosos na Rue du Faubourg Saint-Honoré.",
+      "location": "França",
+      "temperature": "11°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80",
+        "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1307&q=80",
+        "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1551634979-2b11f8c946fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "https://images.unsplash.com/photo-1471623432079-b009d30b6729?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "33526505-7c5d-483c-be27-c964ff3cc66a",
+      "title": "Bali",
+      "text": "Bali é uma ilha da Indonésia conhecida por suas montanhas vulcânicas repletas de florestas, seus arrozais, suas praias e seus recifes de coral. A ilha abriga locais religiosos, como o templo Uluwatu, localizado na beira de um penhasco. Ao sul, a cidade litorânea de Kuta tem bares animados, enquanto Seminyak, Sanur e Nusa Dua são cidades turísticas bastante procuradas. A ilha também é conhecida por seus retiros de ioga e meditação.",
+      "location": "Indonésia",
+      "temperature": "27°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1559450779-d58512188841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "https://images.unsplash.com/photo-1576019206484-54273acdfa89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Indonésia"
+    },
+    {
+      "id": "f2ee9ee8-beb9-48e6-b184-f4ec8ac879e8",
+      "title": "Buenos Aires",
+      "text": "Buenos Aires é a capital cosmopolita da Argentina. Seu centro é a Praça de Maio, com imponentes edifícios do século 19, como a Casa Rosada, o emblemático palácio presidencial com sacadas. Outras importantes atrações são o Teatro Colón, uma casa de ópera inaugurada em 1908 com cerca de 2.500 lugares, e o moderno museu MALBA, com sua coleção de arte latino-americana.",
+      "location": "Argentina",
+      "temperature": "17°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558548661-79efbfb63c6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1495317823589-e67efe1524b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1589916669617-fb5923bab872?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "48776bcd-8558-4cc0-8d96-ebd1536c0e10",
+      "title": "Egito",
+      "text": "O Egito, um país que liga o nordeste da África ao Oriente Médio, remonta ao tempo dos faraós. Monumentos construídos milênios atrás ficam localizados ao longo do fértil vale do rio Nilo, como as colossais Pirâmides de Gizé e a Esfinge, além do Templo de Karnak (repleto de hieróglifos) e das tumbas do Vale dos Reis, ambos em Luxor. A capital, Cairo, abriga monumentos otomanos como a Mesquita de Muhammad Ali e o Museu Egípcio, com uma coleção de antiguidades. ",
+      "location": "Egito",
+      "temperature": "14°C",
+      "gallery": [
+        "https://images.unsplash.com/photo-1514470336873-ae7fe31b8cee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1541710513466-4a732e603597?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+        "https://images.unsplash.com/photo-1600705992417-50ec9b8d9790?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1601595989649-18174ba1b060?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Egito"
+    }
+  ],
+  "tours": [
+    {
+      "id": "dd245878-61e7-4555-bedb-1e03dde534f8",
+      "name": "Museu Munch",
+      "duration": "1-2 horas",
+      "location": "Oslo - Noruega",
+      "rating": 4,
+      "price": 74.1,
+      "description": "Após sua morte, Edvard Munch doou à cidade mais de 1.000 pinturas e, aproximadamente, 15.000 desenhos feitos por ele, além de uma grande parte de sua coleção de obras pertencentes a outros artistas. Uma das peças principais da coleção é O desespero, uma das obras anteriores ao O grito. Em 2004, o museu foi notícia a nível mundial: um roubo. Os assaltantes, armados e encapuzados, roubaram duas das principais pinturas de Munch. Dois anos depois, os quadros roubados da Madonna e uma das versões do O Grito foram recuperados pela polícia. A fama de Munch ultrapassa fronteiras e algumas de suas obras mais famosas se encontram expostas em alguns dos museus mais importantes do mundo todo. É o caso de A noite estrelada, no Getty Center em Los Angeles ou The Sick Child, no Tate Modern em Londres. ",
+      "gallery": [
+        "https://images.unsplash.com/photo-1595429275324-9018f61c0d3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+        "https://images.unsplash.com/photo-1584652868574-0669f4292976?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1564522802704-c1373dce4cc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Forte de Akershus",
+      "duration": "2 horas",
+      "location": "Oslo - Noruega",
+      "rating": 4,
+      "price": 0,
+      "description": "Devido à sua localização estratégica junto ao mar, o forte desempenhou um papel essencial na história da Noruega já que, quem o dominasse controlaria a cidade. Ao longo dos séculos, foi atacado e sitiado em diversas ocasiões, o que fez com que a sua estrutura passasse por melhorias e fosse fortalecida. Ao longo de sua história, o forte funcionou como prisão que abrigou vários criminosos e alguns considerados rebeldes por suas ideias políticas. Durante a Segunda Guerra Mundial e em seu final, alguns deles foram executados no forte. Atualmente, o forte ainda continua sendo zona militar. No entanto, pode ser visitado pelos turistas e ainda é usado como sede de eventos oficiais.",
+      "gallery": [
+        "https://cdn2.civitatis.com/noruega/oslo/galeria/fortaleza-akershus.jpg"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "be55139d-65a4-4660-954c-95dc7fd7c4dc",
+      "name": "Museu Kon-Tiki",
+      "duration": "2 horas",
+      "location": "Península de Bygdøy - Noruega",
+      "rating": 4,
+      "price": 74.1,
+      "description": "O Museu Kon-Tiki é muito pequeno, porém abriga muitas histórias. É surpreendente ver as exposições enquanto você descobre a história que existe por trás de cada uma das peças que lá se encontram",
+      "gallery": [
+        "https://cdn2.civitatis.com/noruega/oslo/galeria/museo-kon-tiki.jpg"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "185effb1-96d4-4ed4-8dbe-dfcc2d54cb38",
+      "name": "Coliseu de Roma",
+      "duration": "2 horas",
+      "location": "Roma - Itália",
+      "rating": 5,
+      "price": 81.3,
+      "description": "O Coliseu é o principal símbolo de Roma, uma imponente construção que, com quase 2.000 anos de idade, te fará voltar no tempo para descobrir como era a antiga sociedade do Império Romano. A construção do Coliseu começou em 72 sob o regime de Vespasiano e terminou em 80 durante o mandato do imperador Tito. Depois da finalização da construção, o Coliseu se tornou o maior anfiteatro romano, com 188 metros de longitude, 156 metros de largura e 57 de altura.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1513120052856-2b18c0d4f696?ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+        "https://images.unsplash.com/photo-1544041275-d00ed2466766?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1564174358508-a622c97cfaff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "91a803ce-9ff9-4c93-b0b4-bbf7dcde5074",
+      "name": "Fórum Romano",
+      "duration": "1 hora",
+      "location": "Roma - Itália",
+      "rating": 5,
+      "price": 81.3,
+      "description": "O Fórum Romano era a região onde acontecia a vida pública e religiosa na antiga Roma. O Fórum é, junto com o Coliseu, a maior mostra da grandeza do Império Romano que se pode ver na atualidade. Ao finalizar o Império, o Fórum Romano ficou no esquecimento e pouco a pouco foi enterrado. Embora no século XVI já se conhecia a existência e a localização do Fórum, foi só no século XX quando foram feitas as excavações. Como curiosidade, a área onde está o Fórum foi no início uma zona pantanosa. No século VI a.C., a área foi drenada com a Cloaca Máxima, um dos primeiros sistemas de esgoto do mundo.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1566527582980-3a39f501a6f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1587557780011-5f0812a3c4f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1591927722830-de444f72e238?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "1391ef09-757f-434b-9741-af00b8cc24b3",
+      "name": "Fontana di Trevi",
+      "duration": "1 hora",
+      "location": "Roma - Itália",
+      "rating": 5,
+      "price": 0,
+      "description": "A Fontana di Trevi é a fonte mais bonita de Roma. Com 20 metros de largura por 26 metros de altura, a Fontana di Trevi é também a maior fonte da cidade. A origem da fonte remonta ao ano 19 a.C., época em que a Fontana constituía o final do aqueduto Aqua Virgo. A primeira fonte foi construída durante o Renascimento, sob as ordens do papa Nicolau V. O aspecto final da Fontana di Trevi data de 1762 quando, depois de vários anos de obras promovidas por Nicola Salvi, foi finalizada por Giuseppe Pannini. Como curiosidade, o nome de Trevi deriva de Tre Vie (três vias), já que a fonte era o ponto de encontro de três ruas.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1596627116790-af6f46dddbda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1590335415242-5d45e2b34cd9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+        "https://images.unsplash.com/photo-1583857307022-8af824c83588?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "a8bb9ca2-8be9-4209-a186-2fc709468d87",
+      "name": "Campos de arroz de Bali",
+      "duration": "3 horas",
+      "location": "Roma - Itália",
+      "rating": 5,
+      "price": 0,
+      "description": "É nos campos de arroz onde se pode ver a verdadeira alma de Bali. Longe das praias, das lojas e da agitação do turismo é onde os agricultores se centram em seu duro trabalho. São felizes com o pouco que têm e transmitem essa felicidade a quem tem a sorte de visitá-los. É possível encontrar campos de arroz em boa parte da ilha, embora a zona mais destacada seja a de Ubud e arredores. Para chegar até lá, é melhor contratar um carro com motorista.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1526122769429-32b933e71968?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=672&q=80",
+        "https://images.unsplash.com/photo-1557093793-e196ae071479?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1572385524110-1e42bc2394d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Templo Mãe de Besakih",
+      "duration": "2 horas",
+      "location": "Aos pés do Monte Agung. A leste da ilha - Indonésia",
+      "rating": 5,
+      "price": 0,
+      "description": "O Templo Mãe de Bali é o mais importante de toda a ilha; por isso, essa visita não pode faltar no seu roteiro. Embora alguns falsos guias tentem convencê-lo do contrário, não é obrigatório pagar para que alguém acompanhe a visita ao interior do templo. Você pode entrar por sua própria conta, desde que leve um pano grande ou o sarong (roupa típica, é uma espécie de saiote, usado por homens e mulheres, feito de um pedaço de pano que envolve o corpo da cintura até os pés). Compre, alugue ou leve um na mochila.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1593938637471-cb705e42d533?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80",
+        "https://images.unsplash.com/photo-1566198252342-b6cc31ffa78f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "https://images.unsplash.com/photo-1593938637267-7d70420742a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80"
+      ],
+      "typename": "Indonésia"
+    },
+    {
+      "id": "577ca83e-87af-46a8-9d85-287321c5f04e",
+      "name": "Plaza de Mayo",
+      "duration": "1 hora",
+      "location": "Buenos Aires - Argentina",
+      "rating": 5,
+      "price": 0,
+      "description": "O nome da praça lembra a Revolução de 25 de maio de 1810, data em que os cidadãos se reuniram ali para expulsar o vice-rei e formar um governo crioulo. Desde então a praça vem sendo uma silenciosa testemunha dos acontecimentos políticos e sociais mais importantes do país. ",
+      "gallery": [
+        "https://images.unsplash.com/photo-1585443216076-02c739566a1e?ixlib=rb-1.2.1&auto=format&fit=crop&w=661&q=80",
+        "https://images.unsplash.com/photo-1577972490701-d8e5725e0d0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+        "https://images.unsplash.com/photo-1577972501707-d295e8e614db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
+      ],
+      "typename": "Argentina"
+
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Mergulho e snorkel",
+      "duration": "3 horas",
+      "location": "Hurghada, Sharm el-Sheij - Egito",
+      "rating": 4,
+      "price": 101.7,
+      "description": "O Mar Vermelho é, sem dúvida, um dos melhores lugares do mundo para mergulhar. Juntamente com a Tailândia e o sudeste asiático em geral, o Egito é um dos destinos preferidos de mergulhadores de todo o mundo. No Egito, há duas cidades onde se praticam o mergulho e o snorkel: Hurghada e Sharm el-Sheij. O preço dos voos até lá, saindo de outros pontos do Egito, podem custar menos de €100 (R$678,20) (ida e volta).",
+      "gallery": [
+        "https://cdn2.civitatis.com/egipto/egipto/galeria/buceo-y-snorkel.jpg",
+        "https://cdn2.civitatis.com/egipto/egipto/galeria/buceo-y-snorkel.jpg"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "295fb579-e3b8-40ec-b5c9-2277d2792612",
+      "name": "Balonismo no Egito",
+      "duration": "4 horas",
+      "location": "Egito",
+      "rating": 4,
+      "price": 678.9,
+      "description": "As vistas de Luxor do alto são fantásticas. Se o céu estiver limpo, poderemos ver os templos de Luxor, Karnak e Hatshepsut. Também vale a pena ver as casas do alto: é uma sensação parecida com a de contemplar uma maquete. Todas as excursões incluem traslados saindo do hotel ou barco, bebidas e, dependendo da hora, café da manhã. Normalmente, é possível escolher a hora de saída; para aproveitar mais o dia e ver o amanhecer, a melhor hora é ao nascer do sol, embora seja necessário levantar por volta das 4 horas da manhã. Uma das vantagens do balonismo no Egito é o preço. Enquanto o valor costuma ser elevado no Brasil e em vários outros países, no Egito é possível realizar a prática sem gastar muito, tanto se você reservar com antecedência quanto se reservar no destino.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1495556614554-6d268cee358a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "20665ef3-4085-47bb-9032-667fae140998",
+      "name": "Pirâmides de Gizé, Mênfis e Saqqara",
+      "duration": "3 horas",
+      "location": "Egito",
+      "rating": 5,
+      "price": 476.7,
+      "description": "Apaixone-se pelo Egito nesta excursão às Pirâmides de Gizé, à necrópole de Saqqara e a Mênfis, antiga capital do país. Nosso especialista em Egito fará você voltar quase 5.000 anos no tempo, chegando até o Antigo Egito. Chegando a Gizé, teremos três horas para desfrutar de um panorama que ficará gravado para sempre em nossa memória. É ali que se encontra a Grande Esfinge de Gizé e as três maiores e mais famosas pirâmides do país, erigidas para os faraós Quéops, Quéfren e Miquerinos. Na hora do almoço, vamos saborear um menu típico, que inclui, entre outras coisas, deliciosos espetinhos de frango grelhados com verduras, hummus, tahini e pão árabe. De sobremesa, doces e uma refrescante salada de frutas. Com as energias recarregadas, iremos em direção à necrópole de Saqqara, um dos elos mais importantes da história do Egito onde, entre outras coisas, você poderá ver a pirâmide do faraó Zhoser, a primeira das pirâmides  que se construíram no Egito.",
+      "gallery": [
+        "https://cdn2.civitatis.com/egipto/el-cairo/galeria/giza.jpg",
+        "https://cdn2.civitatis.com/egipto/el-cairo/galeria/coloso-ramses-ii.jpg",
+        "https://cdn2.civitatis.com/egipto/el-cairo/galeria/piramides-egipto-giza.jpg",
+        "https://cdn2.civitatis.com/egipto/el-cairo/galeria/saqqara-detalle-piramides.jpg"
+      ],
+      "typename": "Egito"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "52619946-60c0-49f6-8fcb-b1453a4865eb",
+      "name": "Tolip Hotel Alexandria",
+      "location": "Egito",
+      "rating": 5,
+      "price": 8.268,
+      "description": "Este hotel 5 estrelas em Alexandria oferece piscina ao ar livre, spa e academia. A propriedade dispõe de acomodações modernas com vistas do mar ou da cidade. Os quartos dispõem de ar-condicionado, frigobar, TV de tela plana com canais via satélite, área de estar e mesa para refeições. Já o banheiro privativo inclui banheira, chuveiro e amenidades de banho de cortesia. Além disso, todas as unidades dispõem de varanda. Você pode jantar em qualquer uma das 9 opções gastronômicas do hotel, que servem diversos pratos que vão da culinária local à internacional. Já os bares da piscina são os lugares ideais para relaxar. O hotel fica a 400 m do Teatro Al-Salam e Stanley Bridge (ponte), enquanto a Estação de Trem de Sidi Gaber fica a 1,5 km de distância. O Aeroporto Internacional Borg el Arab fica a 42 km do local. Esta propriedade ainda oferece estacionamento com custo adicional.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/108/108367599.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/270/270540261.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/259/259072540.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/259/259072484.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/259/259068427.jpg"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Sunrise Alex Avenue Hotel",
+      "location": "Egito",
+      "rating": 5,
+      "price": 0,
+      "description": "Este hotel 5 estrelas em Alexandria oferece piscina ao ar livre, spa e academia. A propriedade dispõe de acomodações modernas com vistas do mar ou da cidade. Os quartos dispõem de ar-condicionado, frigobar, TV de tela plana com canais via satélite, área de estar e mesa para refeições. Já o banheiro privativo inclui banheira, chuveiro e amenidades de banho de cortesia. Além disso, todas as unidades dispõem de varanda. Você pode jantar em qualquer uma das 9 opções gastronômicas do hotel, que servem diversos pratos que vão da culinária local à internacional. Já os bares da piscina são os lugares ideais para relaxar. O hotel fica a 400 m do Teatro Al-Salam e Stanley Bridge (ponte), enquanto a Estação de Trem de Sidi Gaber fica a 1,5 km de distância. O Aeroporto Internacional Borg el Arab fica a 42 km do local. Esta propriedade ainda oferece estacionamento com custo adicional.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/271/271694805.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/271/271694813.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/271/271694819.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/271/271694802.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/251/251292624.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/251/251292317.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/251/251292035.jpg"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "e123a8f4-873d-4ca6-8970-ba9bb1bcccdd",
+      "name": "Smarthotel Oslo",
+      "location": "Oslo - Noruega",
+      "rating": 3,
+      "price": 350,
+      "description": "Este hotel moderno no centro de Oslo fica a apenas 5 minutos a pé da rua comercial Karl Johan. O hotel oferece Wi-Fi gratuito, um bar na recepção 24 horas e quartos práticos com camas de qualidade. Os quartos do Smarthotel Oslo dispõem de isolamento acústico, TV de tela plana, mesa de trabalho e móveis contemporâneos. Os banheiros incluem chuveiro, secador de cabelo e produtos de higiene pessoal. Há um lounge com TV e um terraço mobiliado, onde você pode tomar o café da manhã. O Smarthotel também oferece uma loja de lanches e bebidas. A Galeria Nacional, o Palácio Real e o Parque do Palácio estão a menos de 2 minutos a pé, enquanto o Holmenkollen Ski Jump (trampolim para salto com esqui) fica a 8 km do hotel. Esta é a parte de Oslo de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/713/71392207.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/713/71392220.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/211/211002652.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/111/111504475.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/111/111504509.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/258/258859230.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/210/210940620.jpg"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Karl Johan Hotel",
+      "location": "Oslo - Noruega",
+      "rating": 4,
+      "price": 552,
+      "description": "O Karl Johan Hotel está situado em um edifício do século XIX, na rua principal de Oslo, a Karl Johans Gate, a menos de 700 metros do Palácio Real. Para sua comodidade, o Wi-Fi é gratuito. Todos os quartos do Karl Johan têm mesa de trabalho e TV de tela plana. Algumas unidades também oferecem vista do edifício do Parlamento, situado nas proximidades. A estação de metrô Stortinget está logo na esquina do Karl Johan Hotel, e a estação central fica a 10 minutos a pé. Esta é a parte de Oslo de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/270/270004558.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267734814.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267734689.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267734516.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/267/267736950.jpg"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "eaa8f1a6-bf24-4804-8380-1910d07a5736",
+      "name": "Hotel Capo d´África – Colosseo",
+      "location": "Roma - Italia",
+      "rating": 4,
+      "price": 834,
+      "description": "Rodeado por trattorias e bares de vinho tradicionais, o luxuoso Capo D'Africa está a apenas 5 minutos a pé do Coliseu. O café da manhã, bebidas e lanches são servidos no terraço da cobertura. Todos os quartos apresentam arte contemporânea italiana, decoração moderna, ar-condicionado, frigobar e TV via satélite com canais pay-per-view. Você pode se exercitar na academia e usufruir do acesso Wi-Fi gratuito. Você pode também saborear um buffet de café da manhã servido no terraço da cobertura e desfrutar de coquetéis e vinhos no Centrum Bar. Além disso, você pode saborear um menu à la carte com pratos tradicionais de Roma e italianos no restaurante L'Attico. No Hotel Capo D'Africa, além de um serviço excelente, você pode contar ainda com mapas gratuitos da cidade. A Estação de Metrô Colosseo fica a 5 minutos a pé, e há excelentes conexões de ônibus para as áreas de Roma. Nas ruas estreitas circundantes, você vai encontrar uma grande variedade de sorveterias, pizzarias e restaurantes. Esta é a parte de Roma de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/360/36075805.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/197/197614523.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/197/197616695.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/253/253549679.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/197/197614297.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/197/197614283.jpg"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Oscar Rooms",
+      "location": "Roma - Italia",
+      "rating": 3,
+      "price": 103,
+      "description": "O Oscar Rooms oferece quartos com ar-condicionado e TV de tela plana a cabo no bairro da Estação Central de Roma. A propriedade dispõe de jardim e está localizada a 1,2 km de Santa Maria Maggiore. A acomodação dispõe de cozinha compartilhada e serviço de câmbio. Todos os quartos estão equipados com banheiro privativo com chuveiro, secador de cabelo e amenidades de banho de cortesia. A pousada fica a 2,2 km do Quirinal Hill e a 2,2 km da Domus Aurea. O aeroporto mais próximo é o Aeroporto de Roma Ciampino, a 15 km do Oscar Rooms. Esta é a parte de Roma de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/163/163427801.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/159/159324893.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/159/159324897.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/161/161340023.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/161/161339929.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/160/160168337.jpg"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "20c19d9e-8fa4-422b-bb8f-039277e82b88",
+      "name": "Roma Camping In Town",
+      "location": "Roma - Italia",
+      "rating": 5,
+      "price": 118,
+      "description": "Situado a apenas 15 minutos de carro do Vaticano, o Roma Camping In Town oferece uma piscina ao ar livre sazonal, banheira de hidromassagem e um bar à beira da piscina. O acesso Wi-Fi e um estacionamento estão à sua disposição gratuitamente. Esta propriedade dispõe de chalés e bangalôs com ar-condicionado. Você pode desfrutar de bebidas e lanches durante todo o dia no bar da piscina Ciao Bella, que está aberto até as 02h e tem seu próprio DJ. O restaurante sazonal serve pratos da culinária italiana e pizza fresca. A estação de metrô Cornelia, na linha A, fica a um curto trajeto de ônibus da propriedade. Você pode também reservar serviços de transfer para o Vaticano e para os aeroportos Fiumicino e Ciampino.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/476/47615053.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/475/47595831.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/205/205976495.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/205/205976595.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/343/34324530.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/343/34324527.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/209/209045781.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/209/209036830.jpg"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "36d4bec9-8969-4989-bddb-36fe7a714c05",
+      "name": "Hôtel Vendome Saint-Germain",
+      "location": "Paris - França",
+      "rating": 3,
+      "price": 465,
+      "description": "O Hôtel Vendôme Saint-Germain oferece acomodação em Paris, a apenas 5 minutos a pé do Panteão e a 700 metros da Catedral de Notre Dame, e dispõe de recepção 24 horas e Wi-Fi gratuito em todos os ambientes. A propriedade fica a menos de 1 minuto a pé da Estação de Metrô Cardinal Lemoine. Todos os quartos contam com ar-condicionado e TV de tela plana. As comodidades adicionais incluem chaleira, geladeira e cofre. Para seu conforto, um banheiro privativo com secador de cabelo também está disponível. Um buffet de café da manhã pode ser desfrutado diariamente no Hôtel Vendome Saint-Germain. A Universidade de Sorbonne fica a 650 metros do Hôtel Vendôme Saint-Germain, enquanto o Centro Pompidou está a 1,4 km da propriedade. O Aeroporto de Paris-Orly está localizado a 13 km. Você pode alcançar o Rio Sena em apenas 3 minutos a pé, de onde poderá acessar facilmente diversas atrações turísticas da cidade. Esta é a parte de Paris de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/131/131924879.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/270/270552488.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/262/262248331.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/227/227736764.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/227/227736140.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/227/227745424.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "2fc5b2ac-8f47-453e-b844-f7e91634b756",
+      "name": "Elysées Union",
+      "location": "Paris - França",
+      "rating": 3,
+      "price": 728,
+      "description": "Situado em um edifício do século XIX, em Paris, o Elysées Union oferece um jardim interno, bem como quartos e apartamentos com ar-condicionado. A propriedade fica a 12 minutos a pé da Torre Eiffel. Todos os quartos e apartamentos têm TV via satélite e isolamento acústico. As acomodações apresentam decoração clássica e incluem banheiro privativo com secador de cabelo. O apartamento também dispõe de cozinha compacta equipada com micro-ondas e geladeira. Você poderá desfrutar diariamente de um café da manhã continental, servido na sala de refeições do Elysées Union. O hotel possui ainda um bar no saguão, onde você poderá tomar uma bebida. A recepção 24 horas do Elysées Union oferece serviço de bilheteria para espetáculos, trens e companhias aéreas. A propriedade fica a 12 minutos a pé do Arco do Triunfo e da Avenida Champs-Élysées e suas boutiques de luxo. A estação de metrô Iéna está a apenas 130 metros e fornece acesso direto à loja de departamento Galeries Lafayette. Esta é a parte de Paris de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/581/58119713.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/870/87033382.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/863/86350432.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/581/58119726.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/350/35092284.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/870/87033379.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Hôtel Du Bois Champs-Elysées",
+      "location": "Paris - França",
+      "rating": 3,
+      "price": 553,
+      "description": "Localizado a apenas 5 minutos a pé do Arco do Triunfo e da Avenida Champs Elysées, este hotel 3 estrelas está a 450 m da Estação de Metrô Victor Hugo. A propriedade oferece WiFi gratuito e os quartos dispõem de TV de LCD com canais internacionais. Os quartos do Hôtel Du Bois Champs-Elysées misturam tons de creme e chocolate e oferecem frigobar, ar-condicionado, comodidades para fazer chá/café e TV de tela plana com canais a cabo, tais como o canal Bein Sport. Todos quartos incluem banheiro privativo com chuveiro, secador de cabelo e amenidades de banho de cortesia. O café da manhã continental está disponível por um custo adicional, e é servido diariamente na sala de refeições do Hôtel Du Bois. As comodidades adicionais do hotel incluem serviços de babá e ingressos para os museus e a Disney de Paris. O serviço de translado do aeroporto para o hotel pode ser organizado por um custo extra. A Torre Eiffel fica a 20 minutos a pé do hotel e o Centro de Congressos Porte Maillot fica a 15 minutos a pé de distância. Você também pode utilizar o transporte público para chegar à Basílica do Sagrado Coração e ao Moulin Rouge (casa de espetáculos). Esta é a parte de Paris de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/188/188244391.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/393/39324589.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/182/182959992.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/188/188255095.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/188/188250464.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/188/188236229.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "714f3417-947c-4980-8524-0d4fa2c423b7",
+      "name": "Unique Executive Central",
+      "location": "Buenos Aires - Argentina",
+      "rating": 4,
+      "price": 222,
+      "description": "O Unique Executive Central está localizado no centro de Buenos Aires, ao lado da Plaza de La República (praça) e a uma curta caminhada de várias atrações turísticas. O Unique Executive Central está localizado no centro de Buenos Aires, ao lado da Plaza de La República (praça) e a uma curta caminhada de várias atrações turísticas. A equipe do hotel está à sua disposição 24 horas por dia e fornece um serviço de concierge e serviço de quarto. Esta é a parte de Buenos Aires de que os nossos hóspedes mais gostam, de acordo com avaliações independentes. Casais particularmente gostam da localização — eles deram nota 9,1 para viagem a dois.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/262/262863176.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/262/262863470.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/260/26048346.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/260/26048494.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/680/68095843.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/260/26048736.jpg"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "42f7661f-127d-4dde-a9d4-b39e2f12c679",
+      "name": "Ker San Telmo Hotel",
+      "location": "Buenos Aires - Argentina",
+      "rating": 4,
+      "price": 256,
+      "description": "Localizado em Buenos Aires, a 500 metros da Praça de Maio, o Ker San Telmo Hotel oferece um restaurante, estacionamento privativo, piscina ao ar livre e um bar. Este hotel dispõe de uma recepção 24 horas, serviço de quarto e Wi-Fi gratuito em todas as áreas. Este hotel para não fumantes fica a 1 km do Centro Cultural Kirchner. Os quartos têm ar-condicionado, TV de tela plana a cabo, chaleira, chuveiro, secador de cabelo e uma mesa de trabalho. Todas as unidades incluem guarda-roupa e um banheiro privativo. No Ker San Telmo Hotel, você pode saborear um buffet de café da manhã. Este hotel fica a 1,1 km do Obelisco de Buenos Aires e do Palácio Barolo. Esta é a parte de Buenos Aires de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/256/256227034.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/217/217458501.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/256/256228898.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/234/234014890.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/217/217480360.jpg"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "d1bba5b7-fa57-48a0-b431-1787b217c6e1",
+      "name": "Palermo Apartments",
+      "location": "Buenos Aires - Argentina",
+      "rating": 4,
+      "price": 194,
+      "description": "Localizado a 1,2 km da Praça Serrano, o Palermo Apartments oferece piscina ao ar livre, academia e acomodação com ar-condicionado, varanda e Wi-Fi gratuito. As unidades dispõem de piso de taco, cozinha compacta totalmente equipada com micro-ondas, TV de tela plana a cabo e banheiro privativo com bidê e secador de cabelo. Para sua maior comodidade, a propriedade poderá disponibilizar toalhas e roupa de cama por um custo adicional. Um café da manhã à la carte é servido diariamente no apartamento. O Palermo Apartments oferece um terraço. A propriedade dispõe de recepção 24 horas, lounge compartilhado e business center. Um serviço de aluguel de bicicleta está disponível na acomodação. O Palermo Apartments fica a 1,4 km do Parque Ecológico de Buenos Aires e a 2 km dos Lagos de Palermo. Esta é a parte de Buenos Aires de que os nossos hóspedes mais gostam, de acordo com avaliações independentes.",
+      "gallery": [
+        "https://cf.bstatic.com/images/hotel/max1024x768/169/169034429.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/227/227316248.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/226/226526631.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/226/226526621.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/226/226526497.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/226/226525647.jpg",
+        "https://cf.bstatic.com/images/hotel/max1024x768/225/225916419.jpg"
+      ],
+      "typename": "Argentina"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "778de72d-8553-4dba-9e86-5ac55d01ed98",
+      "name": "The Blue Restaurant & Grill",
+      "location": "Cairo - Egito",
+      "type": "Italiana, Mediterrânea",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/5f/9c/7f/the-blue-restaurant-dinner.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/e7/eb/99/plate-1.jpg"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "035fd65c-5bfb-4081-8df8-35c7476bb344",
+      "name": "Vivo Restaurant",
+      "location": "Cairo - Egito",
+      "type": "Italiana, Mediterrânea, Europeia",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/12/9e/5e/b3/rustic-and-contemporary.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/12/9e/5d/f0/fresh-italian-flavors.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/12/9e/5e/94/beef-tenderlion.jpg"
+      ],
+      "typename": "Egito"
+    },
+    {
+      "id": "2ea2cd6c-c4df-4600-ada3-889034b55beb",
+      "name": "Fondue ChongQing",
+      "location": "Paris",
+      "type": "Chinesa, Asiática, Opções vegetarianas",
+      "rating": 4,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/0f/f7/d3/92/boulette-de-boeuf-au.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/73/2f/70/l-igname-de-chine-se.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/73/28/0c/l-etage-est-tres-spacieux.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "8ea7af97-a29f-4f04-9b4c-d5e7488923c6",
+      "name": "Il Etait Un Square",
+      "location": "Paris",
+      "type": "Francesa, Steakhouse, Europeia",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/0d/b8/36/aa/miam.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/55/f7/c4/photo0jpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-l/15/16/95/a2/photo0jpg.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "4109458f-b934-4d22-a4d3-276b5dec4f1f",
+      "name": "Boutary",
+      "location": "Paris",
+      "type": "Francesa, Frutos do mar, Europeia",
+      "rating": 5,
+      "price": "$$$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/10/90/6b/54/mangue-cassis.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/10/90/5f/32/fraicheur-de-tourteau.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/10/cb/71/8b/dessert.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/0a/36/49/54/facade-rouge-garance.jpg"
+      ],
+      "typename": "França"
+    },
+    {
+      "id": "86c739cf-110f-4de8-9033-4bf0a487b318",
+      "name": "Dim Sum Fine Asian Cuisine",
+      "location": "Roma",
+      "type": "Chinesa, Frutos do mar, Asiática",
+      "rating": 4,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/19/9c/c0/5f/img-20191013-113406-115.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/19/2f/08/7a/lavoriamo-con-la-vista.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/4b/74/59/bottega-nostrana.jpg"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "2c4d0419-0dcd-4f41-a874-99f3dbc26429",
+      "name": "Bono Bottega Nostrana",
+      "location": "Roma",
+      "type": "Italiana, Mediterrânea, Romana",
+      "rating": 5,
+      "price": "$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/21/1e/91/photo3jpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/5d/7b/6f/photo1jpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/4a/73/39/20181007-211312-largejpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/1a/71/54/6f/photo0jpg.jpg"
+      ],
+      "typename": "Italia"
+    },
+    {
+      "id": "8ee670c8-0c6f-404e-a661-5ba0730e1ec3",
+      "name": "Tulen Restaurant",
+      "location": "Bali",
+      "type": "Internacional, Europeia, Asiática",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/79/82/5f/tulen.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/18/2d/53/96/breezy-and-relaxed-sitting.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/05/8a/63/looking-for-a-complete.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/1a/79/82/40/ikan-snapper.jpg"
+      ],
+      "typename": "Indonésia"
+    },
+    {
+      "id": "1f4ec059-ba6e-46cc-8db9-2b544d6f779d",
+      "name": "Sushi Bar Bali",
+      "location": "Bali",
+      "type": "Japonesa, Sushi, Asiática",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/15/1e/e3/24/finns-sushi-bar.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/17/d0/46/44/sushi-rolls.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/17/d0/46/3f/chirashizushi-bowl-of.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/1a/81/9c/c8/photo0jpg.jpg"
+      ],
+      "typename": "Indonésia"
+    },
+    {
+      "id": "5712fe8f-5a75-42c3-8fef-0298291eb92a",
+      "name": "Docks",
+      "location": "Bueno Aires",
+      "type": "Bar, Internacional, Sushi",
+      "rating": 4,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-p/1a/66/72/8f/docks.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/66/72/70/the-lighthouse.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/66/7b/6f/menu.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/66/7b/6d/menu.jpg"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "42f7661f-617d-4dde-a9d4-b39e2f12c679",
+      "name": "Fogón Asado",
+      "location": "Bueno Aires",
+      "type": "Steakhouse, Churrasco, Grelhados",
+      "rating": 4,
+      "price": "$$$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/c1/94/fe/our-restaurant-fire-side.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/39/59/95/ribeye.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/48/3b/f2/sausage.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/1a/39/59/9c/restaurant-setup.jpg"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "868ff12d-a34e-474f-b152-d00e3426cc2d",
+      "name": "Hierro Parrilla",
+      "location": "Bueno Aires",
+      "type": "Steakhouse, Churrasco, Grelhados",
+      "rating": 4,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/52/18/8a/hierro-parrilla.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/b6/6a/bf/20200126-135838-largejpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/f6/86/66/photo5jpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/1a/36/24/02/hierro-parrilla.jpg"
+      ],
+      "typename": "Argentina"
+    },
+    {
+      "id": "e334394d-10ac-404b-83f6-57bcaf5ca5d8",
+      "name": "Villa Paradiso Frogner",
+      "location": "Oslo - Noruega",
+      "type": "Italiana, Pizza, Mediterrânea",
+      "rating": 4,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/ef/9e/0d/facade.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/0b/5b/e6/a3/pasta-with-parma-gorgonzola.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-p/18/e4/18/d0/latte-at-our-table.jpg"
+      ],
+      "typename": "Noruega"
+    },
+    {
+      "id": "96901b6f-a599-492d-909f-6cfce56e8f58",
+      "name": "Restaurant Fangst",
+      "location": "Oslo - Noruega",
+      "type": "Japonesa, Frutos do mar, Sushi",
+      "rating": 5,
+      "price": "$$ - $$$",
+      "gallery": [
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/36/20/93/seating.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/36/1b/91/one-course.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/11/36/1b/6a/consentration.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/73/f2/3a/caption.jpg"
+      ],
+      "typename": "Noruega"
+    }
+  ],
+  "users": [
+    {
+      "id": "c795b7a1-efa6-4084-ae48-937a5f1e9d12",
+      "name": "Monica Morrison",
+      "email": "monica.morrison@email.com",
+      "password": "carrera",
+      "likedPosts": [
+        "778de72d-8553-4dba-9e86-5ac55d01ed98"
+      ]
+    },
+    {
+      "id": "5d50605b-e9e4-48ac-a91f-f378eeb7e4f0",
+      "name": "Dan Caldwell",
+      "email": "dan.caldwell@email.com",
+      "password": "lambda",
+      "likedPosts": []
+    },
+    {
+      "id": "f11bf9e1-0c64-44bc-bdd8-097a3c4e0180",
+      "name": "Shelly Medina",
+      "email": "shelly.medina@email.com",
+      "password": "daemon",
+      "likedPosts": [
+        "96901b6f-a599-492d-909f-6cfce56e8f58"
+      ]
+    },
+    {
+      "id": "6518edab-6628-4719-9fb5-e45cdbab8086",
+      "name": "Bobbie Fields",
+      "email": "bobbie.fields@email.com",
+      "password": "christopher",
+      "likedPosts": []
+    }
+  ]
+}
